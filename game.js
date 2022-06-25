@@ -9,7 +9,7 @@ kaboom({
 })
 
 // Speeds
-const MOVE_SPEED = 120
+const MOVE_SPEED = 130
 const SLICER_SPEED = 100
 const SKELETOR_SPEED = 60
 
